@@ -1,11 +1,14 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "9uREUXzinvyfeVeuPccEws37GMUiZzpMbXjWawpcKGGs",
+    "DJEuWxWma8SereaE4RyXm4ytWgVmiTEYmCzW3bEfUFhR",
+    "AyFhBKnKtVVrXL6H42KgchhVDfSiRNEU8uzGvAA943Ho",
+    "AK4tTnhsjHfFwDb37egvk79PBeZ6yjF78JYaZyjkgfVK"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_3e7BQ7DSQSipzi9KyBlbHgvZKp1C30voZIG",
+  "serviceFee": "4.25",
+  "currencyOption": "SOL",
+  "name": "Axela NFT Marketplace",
+  "logo": "https://collections.mirrorworld.fun/1677793442999-Untitled design.png",
+  "network": "devnet"
 }
